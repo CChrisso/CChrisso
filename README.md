@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./assets/mavi-banner.svg" width="100%" alt="MAVI Web Design — Mastering aesthetics, visualizing innovation... Web design and development for brands ready to stand out." />
+  <img src="./assets/mavi-logo.jpeg" width="360" alt="MAVI Web Design official logo: MWD monogram and MAVI WEB DESIGN in cream on navy." />
 </p>
+
+<h2 align="center">Mastering aesthetics,<br />visualizing innovation...</h2>
 
 <p align="center">
   <strong>Independent minds. One shared vision. A stronger online presence for your business.</strong>
@@ -15,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:christianczynski@gmail.com"><img alt="Start a project by email" src="https://img.shields.io/badge/LET'S_TALK_ABOUT_YOUR_WEBSITE-547EFF?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="mailto:christianczynski@gmail.com"><img alt="Start a project by email" src="https://img.shields.io/badge/LET'S_TALK_ABOUT_YOUR_WEBSITE-14264B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 </p>
 
 ---
@@ -124,10 +126,10 @@ Add a screenshot with descriptive alt text.
 Tell us a little about your business, what you want your website to do, and your ideal timeline. Whether you're starting from scratch or rethinking an existing site, we'd love to hear your plans.
 
 <p>
-  <a href="mailto:christianczynski@gmail.com"><img src="https://img.shields.io/badge/Email_us-182B49?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email MAVI Web Design" /></a>
-  <a href="https://wa.me/36308206614"><img src="https://img.shields.io/badge/WhatsApp-182B49?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Chat with Christian on WhatsApp" /></a>
-  <a href="https://www.linkedin.com/in/christian-czynski-263371262/"><img src="https://img.shields.io/badge/LinkedIn-182B49?style=for-the-badge" alt="Christian on LinkedIn" /></a>
-  <a href="https://github.com/CChrisso"><img src="https://img.shields.io/badge/GitHub-182B49?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Christian on GitHub" /></a>
+  <a href="mailto:christianczynski@gmail.com"><img src="https://img.shields.io/badge/Email_us-14264B?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email MAVI Web Design" /></a>
+  <a href="https://wa.me/36308206614"><img src="https://img.shields.io/badge/WhatsApp-14264B?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Chat with Christian on WhatsApp" /></a>
+  <a href="https://www.linkedin.com/in/christian-czynski-263371262/"><img src="https://img.shields.io/badge/LinkedIn-14264B?style=for-the-badge" alt="Christian on LinkedIn" /></a>
+  <a href="https://github.com/CChrisso"><img src="https://img.shields.io/badge/GitHub-14264B?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Christian on GitHub" /></a>
 </p>
 
 **Email:** [christianczynski@gmail.com](mailto:christianczynski@gmail.com)  
