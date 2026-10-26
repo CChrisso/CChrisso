@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://cchrisso.github.io/">Visit our website ↗</a> &nbsp;·&nbsp;
   <a href="#about">About</a> &nbsp;·&nbsp;
   <a href="#services">Services</a> &nbsp;·&nbsp;
   <a href="#our-approach">Our approach</a> &nbsp;·&nbsp;
