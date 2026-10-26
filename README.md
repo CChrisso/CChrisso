@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/mavi-banner.svg" width="100%" alt="MAVI Web Design — Your next chapter. Beautifully online. Web design and development for brands ready to stand out." />
+  <img src="./assets/mavi-banner.svg" width="100%" alt="MAVI Web Design — Mastering aesthetics, visualizing innovation... Web design and development for brands ready to stand out." />
 </p>
 
 <p align="center">
@@ -138,5 +138,5 @@ Tell us a little about your business, what you want your website to do, and your
 
 <p align="center">
   <strong>MAVI WEB DESIGN</strong><br />
-  <sub>Thoughtful design. Purposeful websites.</sub>
+  <sub>Mastering aesthetics, visualizing innovation...</sub>
 </p>
